@@ -16,3 +16,28 @@ img {
   display: block;
   max-width: 100%;
 }
+.button-start {
+  padding: 10px 20px;
+border-radius: 10px;
+}
+.button-stop {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.timer {
+  margin-top: 20px;
+  display: flex;
+  gap: 19px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.value {
+  text-align: center;
+  line-height: 1.2;
+  font-size: 34px;
+  font-weight: 400;
+}
